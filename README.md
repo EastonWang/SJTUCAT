@@ -5,7 +5,9 @@ Chrome extensions for students in Shanghai Jiao Tong Univ. We want to make life 
 
 
 Now we want to develop several sections:
+
   1.GPA calculator
+  
   2.SJTU News notifier
 
 
