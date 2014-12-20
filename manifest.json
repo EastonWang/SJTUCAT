@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	
+	"name": "SJTU-CAT",
+	"description": "RSS notifier for SJTU news.",
+	"version": "0.1",
+	"homepage_url": "https://github.com/EastonWang/SJTUCAT",
+	"icons":{
+		"16": "pic/icon.png",
+		"48": "pic/icon.png",
+		"128": "pic/icon.png"
+	},
+	
+	"background": {
+		"persistent": true,
+		"page": "html/background.html"
+	},
+	"permissions": [
+		"http://electsys.sjtu.edu.cn/*",
+		"notifications",
+		"storage"
+	],
+	"browser_action":{
+		"default_icon": "pic/icon.png",
+		"default_title": "RSS reader",
+		"default_popup": "html/popup.html"
+	}
+}
