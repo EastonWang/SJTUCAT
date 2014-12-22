@@ -16,7 +16,7 @@ function fetch_feed(url,callback) {
     // the manifest.json file!
     xhr.open('GET', url, true);
     xhr.send();
-	console.log("Now in fetch_feed");
+	//console.log("Now in fetch_feed");
 }	
 
 
@@ -24,7 +24,7 @@ function onRequest(request, sender, callback) {
 	if (request.action == 'fetch_feed'){
         fetch_feed(request.url,callback);
     }
-	console.log("Now in onRequest");
+	//console.log("Now in onRequest");
 }
 
 // Wire up the listener.

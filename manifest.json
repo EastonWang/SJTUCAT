@@ -12,10 +12,14 @@
 	},
 	
 	"background": {
+		//"persistent": true,
 		"page": "html/background.html"
 	},
 	"permissions": [
-		"http://feeds.gawker.com/*"
+		"http://www.jwc.sjtu.edu.cn/*",
+		"http://feeds.gawker.com/*",
+		"notifications",
+		"storage"
 	],
 	"browser_action":{
 		"default_icon": "pic/icon.png",

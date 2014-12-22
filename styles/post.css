@@ -35,7 +35,6 @@ body {
 
 .item {
 	width:385px;
-	height:75px;
 	color:black;
 	font-family:Helvetica;
 /*	margin-top:-10px;*/
@@ -100,3 +99,6 @@ h4 {
 .read {
 	color:#333;
 }
+
+
+
