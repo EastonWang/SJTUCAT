@@ -15,3 +15,4 @@ If you have any ideas, needs or suggestions, don't hesitate to cotact us.
 
 Contact info:
 eastonwyz@gmail.com
+frankxu2004@gmail.com
