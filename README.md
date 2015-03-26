@@ -1,6 +1,8 @@
 SJTUCAT
 =======
 
+This project has been transferred to https://github.com/SJTUCat/Feedy. Welcome to visit.
+
 Chrome extensions for students in Shanghai Jiao Tong Univ. We want to make life here funny, convenient and meaningful.
 
 
